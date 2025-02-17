@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+
+overflow-x:"hidden" ;
+
+
+}
+
+
+.text-indigo-600 {
+    color: #4F46E5 !important; 
+  }
+  
+  .text-indigo{
+    color: #4F46E5 !important;
+  }
+  .bg-button{
+    background-color: #4F46E5 !important;
+    border-color: #4F46E5 !important;
+  }
+  
+  
+  
+            
+                    
